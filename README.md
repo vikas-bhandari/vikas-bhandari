@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vikas-bhandari
+- Working in Hardware verification from past 10 years. Have good knowledge about UVM, SV and formal verification.
